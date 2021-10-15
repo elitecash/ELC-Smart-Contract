@@ -1,3 +1,7 @@
+                                                      Efficient, Effective & Innovative Cash
+
+Built on ETL blockchain, Elite Cash is focused on developing technology to help unleash the true power of digital assets, making payment space faster, cheaper, innovative, and easy to use. Spending, saving, & shopping have never been easier!
+
 Elite Cash is a set of blockchain software solutions that numerous merchants use to accept payments in crypto. Cafes, restaurants, beauty salons, and many more businesses use Elite Cash to make payments easier, faster, and secure. Elite Cash smart contract is developed on the ETL blockchain, the world's fastest blockchain with the cheapest gas fee.
 
 Our product integrates into existing Point of Sale systems as well as offers a standalone payment solution that doesn't require additional hardware. We hedge the risks, increase speed, and streamline payments in multiple cryptocurrencies.
