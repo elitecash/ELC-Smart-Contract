@@ -1,4 +1,4 @@
-                                              Efficient, Effective & Innovative Cash
+                                  Efficient, Effective & Innovative Cash
 
 Built on ETL blockchain, Elite Cash is focused on developing technology to help unleash the true power of digital assets, making payment space faster, cheaper, innovative, and easy to use. Spending, saving, & shopping have never been easier!
 
